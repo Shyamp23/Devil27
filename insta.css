@@ -1,0 +1,27 @@
+nav
+{
+    display: flex;
+    justify-content: center;
+    padding: 5;
+    padding-left: 25%;
+    padding-right: 25%;
+    background-color: blue;
+}
+nav a{
+    text-decoration: none;
+}
+.passwd
+{
+    text-align: right;
+    padding-right: 25%;
+}
+.passwd a
+{
+    text-decoration: none;
+}
+.button
+{
+    display: flex;
+    justify-content: center;
+}
+
