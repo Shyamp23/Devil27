@@ -1,0 +1,25 @@
+nav
+{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    height: 50px;
+    background-color: yellow;
+}
+body
+{
+    background-image: url(plant_bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px 750px;
+}
+
+button
+{
+    border-radius: 40%;
+}
+tr:nth-child(odd)
+{background-color: white;}
+tr:nth-child(even)
+{background-color: white;}

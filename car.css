@@ -1,0 +1,25 @@
+body
+{
+    background-image: url(rr.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1450px 740px;
+        
+}
+nav 
+{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    height: 50px;
+    background-color: yellow;
+}
+button
+{
+    border-radius: 40%;
+}
+tr:nth-child(odd)
+{background-color: white;}
+tr:nth-child(even)
+{background-color: white;}
