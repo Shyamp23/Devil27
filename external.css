@@ -1,0 +1,35 @@
+body
+{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1450px 700px;
+        
+}
+nav ul
+{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    height: 50px;
+}
+nav
+{
+    background-color: #04AA6D;
+}
+
+
+button
+{
+    border-radius: 40%;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 10;
+    width: 100%;
+    
+    color: black;
+    text-align: center;
+ }
